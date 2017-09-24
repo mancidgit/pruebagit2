@@ -52,6 +52,5 @@ $(document).on('click', '.delete-object', function(){
     return false;
 });
 </script> 
-<div style="width:20px; color: green;">mamelucon3</div>
 </body>
 </html>
