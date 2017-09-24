@@ -1,6 +1,6 @@
    </div>
     <!-- /container -->
-<!-- mamelucon --> 
+<!-- mamelucon 2--> 
 <!-- jQuery library -->
 <script src="libs/js/jquery.js"></script>
  
